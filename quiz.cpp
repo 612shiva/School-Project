@@ -1,5 +1,7 @@
 /*
 	This was originally developed in Turbo C, but later modified for gcc
+	Use text file provided wih code. If quest.txt file is not available, 
+	uncomment the questions() function for creating required text file and comment it again.
 */
 
 #include<iostream>
